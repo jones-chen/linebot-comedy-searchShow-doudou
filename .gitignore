@@ -1,0 +1,6 @@
+.DS_store
+credentials.json
+/db/credentials.json
+/credentials.json
+/model/credentials.json
+/crawler/credentials.json
